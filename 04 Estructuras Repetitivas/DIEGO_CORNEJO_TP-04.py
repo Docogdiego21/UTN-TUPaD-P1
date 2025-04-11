@@ -1,4 +1,4 @@
-# -------------------------------------
+# ------------------------------------- Trabajo Practico 4 Cornejo Diego
 # 1) Imprimir del 0 al 100
 for i in range(101):
     print(i)
